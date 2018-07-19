@@ -116,6 +116,9 @@ h3 {
     font-weight: bold;
 }
 
+#borda-escolha {
+    border: 1px solid white;
+}
 
 
 /* DESKTOP */
